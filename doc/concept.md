@@ -9,13 +9,3 @@ Programmiersprache: `C`
 Mock Up
 
 <img src="Mock_up.jpg" alt="MockUp" width="400">
-
-<Meilensteine:>
-
-23.02.2026: `Konzept gemeinsam erstellt`
-
-02.03.2026: `Mock Up erstellt, Konzept ausgebessert` (alleine)
-
-09.03.2026 (Ziel): `Mit Software anfangen`
-
-13.04.2026 (Ziel): `Fertig mit dem Game`
