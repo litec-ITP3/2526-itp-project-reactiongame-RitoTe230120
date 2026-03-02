@@ -15,3 +15,5 @@ Wie: C
 > - ... and many more
 >  
 > This note can be deleted.
+
+![MockUp](Mock_Up.jpg)
