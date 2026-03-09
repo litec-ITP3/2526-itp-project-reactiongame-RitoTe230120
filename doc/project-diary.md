@@ -7,3 +7,9 @@
 09.03.2026 (Ziel): `Mit Software anfangen`
 
 13.04.2026 (Ziel): `Fertig mit dem Game`
+
+# 09/03/2026
+vesucht button und LED funktional zu machen
+- habens nur geschafft dass ein Button input erkannt wird und dass der LED aufleuchtet wenn gefragt
+ 
+- Haben Arduino IDE benutzt
