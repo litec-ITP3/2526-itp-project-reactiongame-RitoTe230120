@@ -6,6 +6,8 @@ Reaction Game Anleitung:
 
 Nun bist du im Startmenü
 
+![](Manual.jpeg) 
+
 Jetzt kannst du entweder den LED Modus oder Ton Modus (falls möglich) auswählen
 
 Um das Spiel zu starten, musst du einen der drei Buttons betätigen
