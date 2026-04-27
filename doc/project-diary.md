@@ -8,6 +8,8 @@
 
 13.04.2026 (Ziel): `Fertig mit dem Game`
 
+27.04.2026: `Wir sind fertig geworden`
+
 # 09/03/2026
 vesucht button und LED funktional zu machen
 - habens nur geschafft dass ein Button input erkannt wird und dass der LED aufleuchtet wenn gefragt
