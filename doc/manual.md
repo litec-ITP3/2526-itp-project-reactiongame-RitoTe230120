@@ -26,3 +26,6 @@ Drücke auf die Buttons, die aufleuchten, du hast 2 Sekunden Zeit den Buttons zu
 
 Nachdem die 10 Sekunden vorbei sind, wird dein Punktestand angezeigt
 
+Spiel ist beendet
+
+Nach einigen Sekunden bist du wieder im Startmenü
