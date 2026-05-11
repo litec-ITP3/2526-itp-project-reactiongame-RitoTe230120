@@ -1,4 +1,4 @@
-# Manual - `<Project NAME>`
+# Manual - `<Reaction Game>`
 
 Reaction Game Anleitung:
 
